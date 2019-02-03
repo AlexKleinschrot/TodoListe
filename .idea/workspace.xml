@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f758e40-e089-4cf1-a086-96a69ef6bdc9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Client/cypress/integration/examples/sample_spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos" beforeDir="false" afterPath="$PROJECT_DIR$/EigeneTodoList/todos" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/java/hsrm/test/todolist/LoadDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/java/hsrm/test/todolist/TodoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/java/hsrm/test/todolist/TodoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/java/hsrm/test/todolist/TodoItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/java/hsrm/test/todolist/TodoItemNotFoundAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/java/hsrm/test/todolist/TodoItemNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/java/hsrm/test/todolist/TodoRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EigeneTodoList/todos/src/test/java/hsrm/test/todolist/TodoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Todos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Todos/src/main/java/hsrm/test/todolist/TodoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Todos/src/main/java/hsrm/test/todolist/TodoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist.client" beforeDir="false" afterPath="$PROJECT_DIR$/Client" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todos" beforeDir="false" afterPath="$PROJECT_DIR$/todos" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1573326644">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/EigeneTodoList/todos" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Softwaretest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Softwaretest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Softwaretest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Softwaretest" type="462c0819:PsiDirectoryNode" />
+              <item name="EigeneTodoList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Softwaretest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Softwaretest" type="462c0819:PsiDirectoryNode" />
+              <item name="Todos" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549199741767" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f758e40-e089-4cf1-a086-96a69ef6bdc9" name="Default Changelist" comment="" />
+      <created>1548674138761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548674138761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13624161" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.5114094" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4885906" side_tool="true" visible="true" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/todolist.client" />
+    </ignored-roots>
+  </component>
+</project>
